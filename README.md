@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Finance Dashboard Backend API
 
 A production-grade RESTful backend for managing financial records, users, and dashboard analytics — built with Node.js, Express, and MongoDB.
@@ -283,3 +284,6 @@ All API responses follow a consistent shape:
 6. **Monthly trends max 24 months** — Prevents accidentally expensive aggregations.
 7. **Self-protection rules** — Admins cannot deactivate, delete, or downgrade their own account.
 8. **Password policy** — Minimum 8 characters, must contain uppercase, lowercase, and a digit.
+=======
+# finance-dashboard-backend
+>>>>>>> b0c2efb6d4e6a07692c36e0d21aa9b0a13c571ff
